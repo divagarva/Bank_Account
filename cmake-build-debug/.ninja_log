@@ -1,0 +1,4 @@
+# ninja log v5
+0	30	1726191752836054569	CMakeFiles/Bank_Account.dir/main.c.o	51ceafb19e139d37
+1	31	1726191752837019984	CMakeFiles/Bank_Account.dir/BankAccount.c.o	2f6382dc9b3e99ac
+31	64	1726191752868682677	Bank_Account	377b43eaf160026c
